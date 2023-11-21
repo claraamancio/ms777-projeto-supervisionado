@@ -15,4 +15,5 @@ O Índice de Irregularidade não permite analisar a influência de ruídos em um
 
 # Acesse 
 [Monografia](https://github.com/claraamancio/ms777-projeto-supervisionado/blob/main/monografia_ms777.pdf) 
+
 [Códigos](https://github.com/claraamancio/ms777-projeto-supervisionado/blob/main/ms777.ipynb)
