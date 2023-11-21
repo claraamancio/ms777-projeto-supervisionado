@@ -14,6 +14,5 @@ O código foi desenvolvido em Python e foram usadas as seguintes bibliotecas: Op
 O Índice de Irregularidade não permite analisar a influência de ruídos em uma imagem pois a medida é mais sensível à imagem do que ao ruído. Medidas como Structural Similarity Index (SSIM) e Peak Signal-to-Noise Ratio (PSNR) já são usadas para analisar imagens degradadas por conseguinte os resultados obtidos foram satisfatórios. Além disso, não existe uma relação explícita entre as medidas Structural Similarity Index e a de Irregularidade.
 
 # Acesse 
-[Monografia](https://github.com/claraamancio/ms777-projeto-supervisionado/blob/main/monografia_ms777.pdf)
+[Monografia](https://github.com/claraamancio/ms777-projeto-supervisionado/blob/main/monografia_ms777.pdf)  
 [Códigos](https://github.com/claraamancio/ms777-projeto-supervisionado/blob/main/ms777.ipynb)
-
